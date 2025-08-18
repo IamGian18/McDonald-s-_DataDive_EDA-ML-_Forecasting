@@ -13,6 +13,7 @@ El objetivo es **identificar patrones, tendencias y relaciones entre variables**
 - Visualizaciones: Plotly
 - Regresión Lineal: Scikit-learn  
 - Evaluación con métricas: RMSE y R²
+- and more...
   
 ---
 
